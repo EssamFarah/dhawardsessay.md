@@ -1,5 +1,7 @@
 #_The DH Awards_: An Evaluation: 
+
 ###By Essam Farah
+
 ##Introduction: 
 The Digital Humanities Awards, shortened to _DH Awards_, are yearly honors given to digital humanities projects by a website of the same name. Since 2012, this organization has bestowed respects on a broad variety of projects from all around the world. Some projects are fun, some are educational, and some attempt to tackle and address big picture issues. Awards are given on an annual basis for the previous year. As of writing, the 2016 awards are still in review. Whilst the site is a great resource and has its strengths, for an organization that evaluates digital platforms, their host website is in a surprising amount of disorganization, with a myriad of glaring weaknesses. 
 
@@ -16,6 +18,8 @@ The _DH Awards_ does provide a wealth of information, but sometimes extra clarif
 One last minor caveat is their lists of the _DH Awards_ nomination committee members for each year. The lists are easily readable and accessible. However, they only provide the members’ names and positions. Whilst this clearly shows their authority and 
 ##**Strengths**: Awards: 
 Although the _DH Awards_ has plenty of background information, the main attraction are the awards and websites themselves. Here, the organization excels. The result pages clearly displays the category for the award, links to the winner’s website, followed by several of the runner-ups. This format is easily readable, and provides users plenty of submissions to explore, while still clearly maintaining clarity. 
+
+
  ##Conclusions: 
 Overall, the _DH Awards_ is a solid website that is mostly accessible and readable. In most cases, ample information is both easily readable and thorough, for both the average user and those looking more in-depth into digital humanities. Unfortunately, the site does have several glaring errors, mainly to do with organization, but manages to function well nevertheless. 
 
